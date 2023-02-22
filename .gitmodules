@@ -1,0 +1,3 @@
+[submodule "JSDM4POD"]
+	path = JSDM4POD
+	url = https://github.com/molgor/JSDM4POD.git
